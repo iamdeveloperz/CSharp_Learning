@@ -1,0 +1,14 @@
+D:\BootCamp Git\CSharp_Learning\FirstProgram\SecondProgram\bin\Debug\net6.0\SecondProgram.exe
+D:\BootCamp Git\CSharp_Learning\FirstProgram\SecondProgram\bin\Debug\net6.0\SecondProgram.deps.json
+D:\BootCamp Git\CSharp_Learning\FirstProgram\SecondProgram\bin\Debug\net6.0\SecondProgram.runtimeconfig.json
+D:\BootCamp Git\CSharp_Learning\FirstProgram\SecondProgram\bin\Debug\net6.0\SecondProgram.dll
+D:\BootCamp Git\CSharp_Learning\FirstProgram\SecondProgram\bin\Debug\net6.0\SecondProgram.pdb
+D:\BootCamp Git\CSharp_Learning\FirstProgram\SecondProgram\obj\Debug\net6.0\SecondProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootCamp Git\CSharp_Learning\FirstProgram\SecondProgram\obj\Debug\net6.0\SecondProgram.AssemblyInfoInputs.cache
+D:\BootCamp Git\CSharp_Learning\FirstProgram\SecondProgram\obj\Debug\net6.0\SecondProgram.AssemblyInfo.cs
+D:\BootCamp Git\CSharp_Learning\FirstProgram\SecondProgram\obj\Debug\net6.0\SecondProgram.csproj.CoreCompileInputs.cache
+D:\BootCamp Git\CSharp_Learning\FirstProgram\SecondProgram\obj\Debug\net6.0\SecondProgram.dll
+D:\BootCamp Git\CSharp_Learning\FirstProgram\SecondProgram\obj\Debug\net6.0\refint\SecondProgram.dll
+D:\BootCamp Git\CSharp_Learning\FirstProgram\SecondProgram\obj\Debug\net6.0\SecondProgram.pdb
+D:\BootCamp Git\CSharp_Learning\FirstProgram\SecondProgram\obj\Debug\net6.0\SecondProgram.genruntimeconfig.cache
+D:\BootCamp Git\CSharp_Learning\FirstProgram\SecondProgram\obj\Debug\net6.0\ref\SecondProgram.dll
