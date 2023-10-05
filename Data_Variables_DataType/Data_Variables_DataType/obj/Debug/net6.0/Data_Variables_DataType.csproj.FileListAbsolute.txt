@@ -1,0 +1,14 @@
+D:\BootCamp Git\CSharp_Learning\Data_Variables_DataType\Data_Variables_DataType\bin\Debug\net6.0\Data_Variables_DataType.exe
+D:\BootCamp Git\CSharp_Learning\Data_Variables_DataType\Data_Variables_DataType\bin\Debug\net6.0\Data_Variables_DataType.deps.json
+D:\BootCamp Git\CSharp_Learning\Data_Variables_DataType\Data_Variables_DataType\bin\Debug\net6.0\Data_Variables_DataType.runtimeconfig.json
+D:\BootCamp Git\CSharp_Learning\Data_Variables_DataType\Data_Variables_DataType\bin\Debug\net6.0\Data_Variables_DataType.dll
+D:\BootCamp Git\CSharp_Learning\Data_Variables_DataType\Data_Variables_DataType\bin\Debug\net6.0\Data_Variables_DataType.pdb
+D:\BootCamp Git\CSharp_Learning\Data_Variables_DataType\Data_Variables_DataType\obj\Debug\net6.0\Data_Variables_DataType.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootCamp Git\CSharp_Learning\Data_Variables_DataType\Data_Variables_DataType\obj\Debug\net6.0\Data_Variables_DataType.AssemblyInfoInputs.cache
+D:\BootCamp Git\CSharp_Learning\Data_Variables_DataType\Data_Variables_DataType\obj\Debug\net6.0\Data_Variables_DataType.AssemblyInfo.cs
+D:\BootCamp Git\CSharp_Learning\Data_Variables_DataType\Data_Variables_DataType\obj\Debug\net6.0\Data_Variables_DataType.csproj.CoreCompileInputs.cache
+D:\BootCamp Git\CSharp_Learning\Data_Variables_DataType\Data_Variables_DataType\obj\Debug\net6.0\Data_Variables_DataType.dll
+D:\BootCamp Git\CSharp_Learning\Data_Variables_DataType\Data_Variables_DataType\obj\Debug\net6.0\refint\Data_Variables_DataType.dll
+D:\BootCamp Git\CSharp_Learning\Data_Variables_DataType\Data_Variables_DataType\obj\Debug\net6.0\Data_Variables_DataType.pdb
+D:\BootCamp Git\CSharp_Learning\Data_Variables_DataType\Data_Variables_DataType\obj\Debug\net6.0\Data_Variables_DataType.genruntimeconfig.cache
+D:\BootCamp Git\CSharp_Learning\Data_Variables_DataType\Data_Variables_DataType\obj\Debug\net6.0\ref\Data_Variables_DataType.dll

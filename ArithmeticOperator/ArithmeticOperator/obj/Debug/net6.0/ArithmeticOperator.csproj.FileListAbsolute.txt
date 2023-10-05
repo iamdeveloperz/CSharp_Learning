@@ -1,0 +1,14 @@
+D:\BootCamp Git\CSharp_Learning\ArithmeticOperator\ArithmeticOperator\bin\Debug\net6.0\ArithmeticOperator.exe
+D:\BootCamp Git\CSharp_Learning\ArithmeticOperator\ArithmeticOperator\bin\Debug\net6.0\ArithmeticOperator.deps.json
+D:\BootCamp Git\CSharp_Learning\ArithmeticOperator\ArithmeticOperator\bin\Debug\net6.0\ArithmeticOperator.runtimeconfig.json
+D:\BootCamp Git\CSharp_Learning\ArithmeticOperator\ArithmeticOperator\bin\Debug\net6.0\ArithmeticOperator.dll
+D:\BootCamp Git\CSharp_Learning\ArithmeticOperator\ArithmeticOperator\bin\Debug\net6.0\ArithmeticOperator.pdb
+D:\BootCamp Git\CSharp_Learning\ArithmeticOperator\ArithmeticOperator\obj\Debug\net6.0\ArithmeticOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootCamp Git\CSharp_Learning\ArithmeticOperator\ArithmeticOperator\obj\Debug\net6.0\ArithmeticOperator.AssemblyInfoInputs.cache
+D:\BootCamp Git\CSharp_Learning\ArithmeticOperator\ArithmeticOperator\obj\Debug\net6.0\ArithmeticOperator.AssemblyInfo.cs
+D:\BootCamp Git\CSharp_Learning\ArithmeticOperator\ArithmeticOperator\obj\Debug\net6.0\ArithmeticOperator.csproj.CoreCompileInputs.cache
+D:\BootCamp Git\CSharp_Learning\ArithmeticOperator\ArithmeticOperator\obj\Debug\net6.0\ArithmeticOperator.dll
+D:\BootCamp Git\CSharp_Learning\ArithmeticOperator\ArithmeticOperator\obj\Debug\net6.0\refint\ArithmeticOperator.dll
+D:\BootCamp Git\CSharp_Learning\ArithmeticOperator\ArithmeticOperator\obj\Debug\net6.0\ArithmeticOperator.pdb
+D:\BootCamp Git\CSharp_Learning\ArithmeticOperator\ArithmeticOperator\obj\Debug\net6.0\ArithmeticOperator.genruntimeconfig.cache
+D:\BootCamp Git\CSharp_Learning\ArithmeticOperator\ArithmeticOperator\obj\Debug\net6.0\ref\ArithmeticOperator.dll
