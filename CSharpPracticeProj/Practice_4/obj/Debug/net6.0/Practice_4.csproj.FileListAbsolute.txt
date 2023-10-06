@@ -1,0 +1,14 @@
+D:\BootCamp Git\CSharp_Learning\CSharpPracticeProj\Practice_4\bin\Debug\net6.0\Practice_4.exe
+D:\BootCamp Git\CSharp_Learning\CSharpPracticeProj\Practice_4\bin\Debug\net6.0\Practice_4.deps.json
+D:\BootCamp Git\CSharp_Learning\CSharpPracticeProj\Practice_4\bin\Debug\net6.0\Practice_4.runtimeconfig.json
+D:\BootCamp Git\CSharp_Learning\CSharpPracticeProj\Practice_4\bin\Debug\net6.0\Practice_4.dll
+D:\BootCamp Git\CSharp_Learning\CSharpPracticeProj\Practice_4\bin\Debug\net6.0\Practice_4.pdb
+D:\BootCamp Git\CSharp_Learning\CSharpPracticeProj\Practice_4\obj\Debug\net6.0\Practice_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootCamp Git\CSharp_Learning\CSharpPracticeProj\Practice_4\obj\Debug\net6.0\Practice_4.AssemblyInfoInputs.cache
+D:\BootCamp Git\CSharp_Learning\CSharpPracticeProj\Practice_4\obj\Debug\net6.0\Practice_4.AssemblyInfo.cs
+D:\BootCamp Git\CSharp_Learning\CSharpPracticeProj\Practice_4\obj\Debug\net6.0\Practice_4.csproj.CoreCompileInputs.cache
+D:\BootCamp Git\CSharp_Learning\CSharpPracticeProj\Practice_4\obj\Debug\net6.0\Practice_4.dll
+D:\BootCamp Git\CSharp_Learning\CSharpPracticeProj\Practice_4\obj\Debug\net6.0\refint\Practice_4.dll
+D:\BootCamp Git\CSharp_Learning\CSharpPracticeProj\Practice_4\obj\Debug\net6.0\Practice_4.pdb
+D:\BootCamp Git\CSharp_Learning\CSharpPracticeProj\Practice_4\obj\Debug\net6.0\Practice_4.genruntimeconfig.cache
+D:\BootCamp Git\CSharp_Learning\CSharpPracticeProj\Practice_4\obj\Debug\net6.0\ref\Practice_4.dll

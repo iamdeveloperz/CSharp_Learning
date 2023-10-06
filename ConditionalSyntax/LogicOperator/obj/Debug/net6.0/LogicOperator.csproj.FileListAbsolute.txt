@@ -1,0 +1,14 @@
+D:\BootCamp Git\CSharp_Learning\ConditionalSyntax\LogicOperator\bin\Debug\net6.0\LogicOperator.exe
+D:\BootCamp Git\CSharp_Learning\ConditionalSyntax\LogicOperator\bin\Debug\net6.0\LogicOperator.deps.json
+D:\BootCamp Git\CSharp_Learning\ConditionalSyntax\LogicOperator\bin\Debug\net6.0\LogicOperator.runtimeconfig.json
+D:\BootCamp Git\CSharp_Learning\ConditionalSyntax\LogicOperator\bin\Debug\net6.0\LogicOperator.dll
+D:\BootCamp Git\CSharp_Learning\ConditionalSyntax\LogicOperator\bin\Debug\net6.0\LogicOperator.pdb
+D:\BootCamp Git\CSharp_Learning\ConditionalSyntax\LogicOperator\obj\Debug\net6.0\LogicOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootCamp Git\CSharp_Learning\ConditionalSyntax\LogicOperator\obj\Debug\net6.0\LogicOperator.AssemblyInfoInputs.cache
+D:\BootCamp Git\CSharp_Learning\ConditionalSyntax\LogicOperator\obj\Debug\net6.0\LogicOperator.AssemblyInfo.cs
+D:\BootCamp Git\CSharp_Learning\ConditionalSyntax\LogicOperator\obj\Debug\net6.0\LogicOperator.csproj.CoreCompileInputs.cache
+D:\BootCamp Git\CSharp_Learning\ConditionalSyntax\LogicOperator\obj\Debug\net6.0\LogicOperator.dll
+D:\BootCamp Git\CSharp_Learning\ConditionalSyntax\LogicOperator\obj\Debug\net6.0\refint\LogicOperator.dll
+D:\BootCamp Git\CSharp_Learning\ConditionalSyntax\LogicOperator\obj\Debug\net6.0\LogicOperator.pdb
+D:\BootCamp Git\CSharp_Learning\ConditionalSyntax\LogicOperator\obj\Debug\net6.0\LogicOperator.genruntimeconfig.cache
+D:\BootCamp Git\CSharp_Learning\ConditionalSyntax\LogicOperator\obj\Debug\net6.0\ref\LogicOperator.dll

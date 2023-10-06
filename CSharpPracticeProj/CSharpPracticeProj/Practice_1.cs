@@ -1,6 +1,6 @@
 ﻿namespace CSharpPracticeProj
 {
-    internal class Practice
+    internal class Practice_1
     {
         static void Main(string[] args)
         {

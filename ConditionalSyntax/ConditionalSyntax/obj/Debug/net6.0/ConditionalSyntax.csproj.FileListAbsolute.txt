@@ -1,0 +1,14 @@
+D:\BootCamp Git\CSharp_Learning\ConditionalSyntax\ConditionalSyntax\bin\Debug\net6.0\ConditionalSyntax.exe
+D:\BootCamp Git\CSharp_Learning\ConditionalSyntax\ConditionalSyntax\bin\Debug\net6.0\ConditionalSyntax.deps.json
+D:\BootCamp Git\CSharp_Learning\ConditionalSyntax\ConditionalSyntax\bin\Debug\net6.0\ConditionalSyntax.runtimeconfig.json
+D:\BootCamp Git\CSharp_Learning\ConditionalSyntax\ConditionalSyntax\bin\Debug\net6.0\ConditionalSyntax.dll
+D:\BootCamp Git\CSharp_Learning\ConditionalSyntax\ConditionalSyntax\bin\Debug\net6.0\ConditionalSyntax.pdb
+D:\BootCamp Git\CSharp_Learning\ConditionalSyntax\ConditionalSyntax\obj\Debug\net6.0\ConditionalSyntax.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootCamp Git\CSharp_Learning\ConditionalSyntax\ConditionalSyntax\obj\Debug\net6.0\ConditionalSyntax.AssemblyInfoInputs.cache
+D:\BootCamp Git\CSharp_Learning\ConditionalSyntax\ConditionalSyntax\obj\Debug\net6.0\ConditionalSyntax.AssemblyInfo.cs
+D:\BootCamp Git\CSharp_Learning\ConditionalSyntax\ConditionalSyntax\obj\Debug\net6.0\ConditionalSyntax.csproj.CoreCompileInputs.cache
+D:\BootCamp Git\CSharp_Learning\ConditionalSyntax\ConditionalSyntax\obj\Debug\net6.0\ConditionalSyntax.dll
+D:\BootCamp Git\CSharp_Learning\ConditionalSyntax\ConditionalSyntax\obj\Debug\net6.0\refint\ConditionalSyntax.dll
+D:\BootCamp Git\CSharp_Learning\ConditionalSyntax\ConditionalSyntax\obj\Debug\net6.0\ConditionalSyntax.pdb
+D:\BootCamp Git\CSharp_Learning\ConditionalSyntax\ConditionalSyntax\obj\Debug\net6.0\ConditionalSyntax.genruntimeconfig.cache
+D:\BootCamp Git\CSharp_Learning\ConditionalSyntax\ConditionalSyntax\obj\Debug\net6.0\ref\ConditionalSyntax.dll
