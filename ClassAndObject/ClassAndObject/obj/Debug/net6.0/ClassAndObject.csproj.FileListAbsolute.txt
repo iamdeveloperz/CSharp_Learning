@@ -1,0 +1,14 @@
+D:\BootCamp Git\CSharp_Learning\ClassAndObject\ClassAndObject\bin\Debug\net6.0\ClassAndObject.exe
+D:\BootCamp Git\CSharp_Learning\ClassAndObject\ClassAndObject\bin\Debug\net6.0\ClassAndObject.deps.json
+D:\BootCamp Git\CSharp_Learning\ClassAndObject\ClassAndObject\bin\Debug\net6.0\ClassAndObject.runtimeconfig.json
+D:\BootCamp Git\CSharp_Learning\ClassAndObject\ClassAndObject\bin\Debug\net6.0\ClassAndObject.dll
+D:\BootCamp Git\CSharp_Learning\ClassAndObject\ClassAndObject\bin\Debug\net6.0\ClassAndObject.pdb
+D:\BootCamp Git\CSharp_Learning\ClassAndObject\ClassAndObject\obj\Debug\net6.0\ClassAndObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\BootCamp Git\CSharp_Learning\ClassAndObject\ClassAndObject\obj\Debug\net6.0\ClassAndObject.AssemblyInfoInputs.cache
+D:\BootCamp Git\CSharp_Learning\ClassAndObject\ClassAndObject\obj\Debug\net6.0\ClassAndObject.AssemblyInfo.cs
+D:\BootCamp Git\CSharp_Learning\ClassAndObject\ClassAndObject\obj\Debug\net6.0\ClassAndObject.csproj.CoreCompileInputs.cache
+D:\BootCamp Git\CSharp_Learning\ClassAndObject\ClassAndObject\obj\Debug\net6.0\ClassAndObject.dll
+D:\BootCamp Git\CSharp_Learning\ClassAndObject\ClassAndObject\obj\Debug\net6.0\refint\ClassAndObject.dll
+D:\BootCamp Git\CSharp_Learning\ClassAndObject\ClassAndObject\obj\Debug\net6.0\ClassAndObject.pdb
+D:\BootCamp Git\CSharp_Learning\ClassAndObject\ClassAndObject\obj\Debug\net6.0\ClassAndObject.genruntimeconfig.cache
+D:\BootCamp Git\CSharp_Learning\ClassAndObject\ClassAndObject\obj\Debug\net6.0\ref\ClassAndObject.dll
